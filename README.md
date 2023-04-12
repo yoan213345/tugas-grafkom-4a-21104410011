@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410011** |
+| Nama Lengkap | **yoan ockta pradana** |
 | Kelas | TI-4A |
